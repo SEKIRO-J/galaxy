@@ -1,13 +1,13 @@
-# CASPER theme for hugo
+# Galaxy theme for hugo
 
 
-Casper is a single-column theme for [Hugo](http://gohugo.io/).
+Galaxy is a single-column theme for [Hugo](http://gohugo.io/).
 Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper)
 
-blog demo : http://vjeantet.fr
-blog source : https://github.com/vjeantet/vjeantet.fr
+blog demo : https://github.com/SEKIRO-J/galaxy
+blog source : https://sekiro-j.github.io/
 
-![Hugo Casper Theme screenshot](https://raw.githubusercontent.com/vjeantet/hugo-theme-casper/master/images/screen.png)
+![Hugo Casper Theme screenshot](https://github.com/SEKIRO-J/galaxy/blob/master/static/images/screen.jpg)
 
 ## Features
 
@@ -163,5 +163,3 @@ Contents here
 # Contact me
 
 :beetle: open an issue in github
-
-:bird: [https://twitter.com/vjeantet](https://twitter.com/vjeantet)
