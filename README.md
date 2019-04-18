@@ -7,7 +7,7 @@ Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper)
 blog demo : https://github.com/SEKIRO-J/galaxy
 blog source : https://sekiro-j.github.io/
 
-![Hugo Casper Theme screenshot](https://github.com/SEKIRO-J/galaxy/blob/master/static/images/screen.jpg)
+![Hugo Galaxy Theme screenshot](https://github.com/SEKIRO-J/galaxy/blob/master/static/images/screen.jpg)
 
 ## Features
 
@@ -31,11 +31,11 @@ blog source : https://sekiro-j.github.io/
 
     mkdir themes
     cd themes
-    git clone https://github.com/vjeantet/hugo-theme-casper casper
+    git clone https://github.com/SEKIRO-J/galaxy galaxy
 
 ## Build your website with this theme
 
-    hugo server -t casper
+    hugo server -t galaxy
 
 # Configuration
 
