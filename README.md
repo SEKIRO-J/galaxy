@@ -4,8 +4,8 @@
 Galaxy is a single-column theme for [Hugo](http://gohugo.io/).
 Ported from [Casper theme for Ghost ](https://github.com/TryGhost/Casper)
 
-blog demo : https://github.com/SEKIRO-J/galaxy
-blog source : https://sekiro-j.github.io/
+
+blog demo : https://sekiro-j.github.io/
 
 ![Hugo Galaxy Theme screenshot](https://github.com/SEKIRO-J/galaxy/blob/master/static/images/screen.jpg)
 
